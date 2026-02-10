@@ -1,4 +1,0 @@
-kivy
-ollama
-sqlite3
-requests
